@@ -1,0 +1,12 @@
+
+auth_app/.env.dev
+auth_app/.idea
+auth_app/__pycache__
+auth_app/migration/__pycache__
+auth_app/migration/versions/__pycache__
+
+client_app/.env.dev
+client_app/.idea
+client_app/__pycache__
+client_app/migration/__pycache__
+client_app/migration/versions/__pycache__

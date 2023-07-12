@@ -1,0 +1,2 @@
+class ConnectionToGmailException(Exception):
+    pass
